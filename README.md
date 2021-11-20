@@ -15,7 +15,7 @@ npm i -S mongodb fastify
 npm i -D nodemon 
 ```
 
----
+-
 
 ```bash
 npm i -S redis
@@ -44,7 +44,6 @@ keys *
 ```bash
 get 'key'
 ```
-
 
 ```bash
 ttl 'key'

@@ -9,4 +9,12 @@ npm i -S mongodb fastify
 
 npm i -D nodemon 
 
+---
+
+npm i -S redis
+
 ## run 
+
+redis-server
+
+npm run dev

@@ -21,7 +21,7 @@ npm i -D nodemon
 npm i -S redis
 ```
 
-## run / TERMINAL 1: node,redis-server
+## run / TERMINAL 1: node, redis-server
 
 ```bash
 redis-server

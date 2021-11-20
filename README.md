@@ -31,7 +31,7 @@ redis-server
 npm run dev
 ```
 
-# use redis / TERMINAL 2: redis-cli
+## use redis / TERMINAL 2: redis-cli
 
 ```bash
 redis-cli
